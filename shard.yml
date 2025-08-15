@@ -1,0 +1,13 @@
+name: crystal_sdl
+version: 0.1.0
+
+authors:
+  - fro0bit <BoeJiden1984@protonmail.com>
+
+crystal: '>= 1.16.3'
+
+license: MIT
+
+dependencies:
+  sdl:
+    github: ysbaddaden/sdl.cr
