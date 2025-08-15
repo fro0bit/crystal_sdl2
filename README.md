@@ -1,6 +1,6 @@
 # crystal_sdl
 
-TODO: Write a description here
+https://github.com/ysbaddaden/sdl.cr
 
 ## Installation
 
@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      crystal_sdl:
-       github: your-github-user/crystal_sdl
+       github: ysbaddaden/crystal_sdl
    ```
 
 2. Run `shards install`
@@ -17,7 +17,7 @@ TODO: Write a description here
 ## Usage
 
 ```crystal
-require "crystal_sdl"
+require "sdl"
 ```
 
 TODO: Write usage instructions here
